@@ -15,11 +15,25 @@ Hardware :
 -IR ledka
 
 
-Schéma zapojení :
-![image](https://github.com/ondrej-piwo/GPNVG/assets/172043393/001106cf-7393-4d5a-8dc2-f8638edfa0fb)
-
-
 Myšlenková mapa :
 
 
 ![GPNVGground_panoramatic_nightvision_goggles](https://github.com/ondrej-piwo/GPNVG/assets/172043393/4a76547b-e355-4e2d-a198-0a9d54b44d66)
+
+
+
+
+
+Závěr :
+Tento projekt ukazuje, jak lze kombinovat Raspberry Pi, Esp32-cam pro vytvoření webového serveru, který streamuje video s nočním viděním. Můžete dále přizpůsobit a rozšířit tento projekt podle svých potřeb.
+
+
+autoři : 
+Maxmilián Urbančík a Ondřej Piwowarski
+
+
+
+
+
+disclaymer :
+tento projekt je jenom pro studijí účely 
