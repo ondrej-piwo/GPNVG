@@ -1,0 +1,30 @@
+​
+Ondřej PIWOWARSKI
+​
+from flask import Flask, render_template_string
+import os
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template_string('''
+    <!doctype html>
+    <html>
+    <head><title>ESP32-CAM Stream</title></head>
+    <body>
+    <h1>ESP32-CAM Stream</h1>
+    <video id="video" width="640" height="480" controls autoplay>
+      <source src="rtsp://192.168.1.XX:8554/stream" type="application/x-rtsp">
+    </video>
+    <script>
+    setInterval(() => {
+        document.getElementById('video').load();
+    }, 1000);
+    </script>
+    </body>
+    </html>
+    ''')
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=80)
