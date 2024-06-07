@@ -1,11 +1,11 @@
 # GPNVG
 ### autoři : Maxmilián Urbančík a Ondřej Piwowarski
 
-### Popis projektu :
+## Popis projektu :
 - Tento projekt se zaměřuje na lepší způsob nočního vidění pro buď civilní ůčely nebo na policejních nebo armádních akcí, projekt obsahuje webový server který funguje jako zhlédnutí obrazu z nočního vidění,
 
 
-### Cíle projektu :
+## Cíle projektu :
 
 - vytvořit server který bude streamovat video pomocí RTSP protokolu 
 - vytvořit systém nočního vidění které bude zachitávat světlo které naše oko nevidí
@@ -38,7 +38,7 @@
 
 
 
-### Závěr :
+## Závěr :
 
 - Tento projekt ukazuje, jak lze kombinovat Raspberry Pi, Esp32-cam pro vytvoření webového serveru, který streamuje video s nočním viděním. Můžete dále přizpůsobit a rozšířit tento projekt podle svých potřeb.
 
@@ -46,4 +46,4 @@
 
 
 ### disclaymer :
-tento projekt je jenom pro studijí účely 
+- tento projekt je jenom pro studijí účely 
