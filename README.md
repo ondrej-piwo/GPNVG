@@ -1,10 +1,11 @@
 # GPNVG
 ### autoři : Maxmilián Urbančík a Ondřej Piwowarski
-Popis projektu :
+
+### Popis projektu :
 - Tento projekt se zaměřuje na lepší způsob nočního vidění pro buď civilní ůčely nebo na policejních nebo armádních akcí, projekt obsahuje webový server který funguje jako zhlédnutí obrazu z nočního vidění,
 
 
-### cíle :
+### Cíle projektu :
 
 - vytvořit server který bude streamovat video pomocí RTSP protokolu 
 - vytvořit systém nočního vidění které bude zachitávat světlo které naše oko nevidí
