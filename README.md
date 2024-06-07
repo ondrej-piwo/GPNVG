@@ -11,6 +11,10 @@ cíle :
 - udělat prostředí pro shlédnutí obrazu
 
 
+Název aplikace : 
+
+SilentEye  nebo ShadowTraker
+
 Hardware :
 
 -Esp 32-cam 4x
