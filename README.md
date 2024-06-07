@@ -15,24 +15,17 @@
 
 ### Název aplikace : 
 
-SilentEye  nebo ShadowTraker
+- SilentEye  nebo ShadowTraker
 
 ### Hardware :
 
 -Esp 32-cam 4x
-
 -Raspberry Pi 3 model A+
-
 -Vodiče
-
 -Lcd screen module GC9A01 
-
 -Converter board module 5-30v to 5v
-
 -zdroj napětí (power banka)
-
 -tlačítko
-
 -IR ledka
 
 
