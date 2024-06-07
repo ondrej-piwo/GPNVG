@@ -15,7 +15,7 @@
 
 ### Název aplikace : 
 
-- SilentEye  nebo ShadowTraker
+- SilentEye 
 
 ### Hardware :
 
