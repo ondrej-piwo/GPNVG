@@ -25,10 +25,12 @@ Myšlenková mapa :
 
 
 Závěr :
+
 Tento projekt ukazuje, jak lze kombinovat Raspberry Pi, Esp32-cam pro vytvoření webového serveru, který streamuje video s nočním viděním. Můžete dále přizpůsobit a rozšířit tento projekt podle svých potřeb.
 
 
 autoři : 
+
 Maxmilián Urbančík a Ondřej Piwowarski
 
 
