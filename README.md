@@ -10,3 +10,4 @@
 -Converter board module 5-30v to 5v
 zdroj napětí (power banka)
 
+![GPNVGground_panoramatic_nightvision_goggles](https://github.com/ondrej-piwo/GPNVG/assets/172043393/4a76547b-e355-4e2d-a198-0a9d54b44d66)
