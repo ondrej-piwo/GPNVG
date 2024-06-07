@@ -3,6 +3,14 @@ Popis projektu :
 - Tento projekt se zaměřuje na lepší způsob nočního vidění pro buď civilní ůčely nebo na policejních nebo armádních akcí, projekt obsahuje webový server který funguje jako zhlédnutí obrazu z nočního vidění,
 
 
+cíle :
+
+- vytvořit server který bude streamovat video pomocí RTSP protokolu 
+- vytvořit systém nočního vidění které bude zachitávat světlo které naše oko nevidí
+- propojit tyto dvě zařízení přes wifi
+- udělat prostředí pro shlédnutí obrazu
+
+
 Hardware :
 
 -Esp 32-cam 4x
